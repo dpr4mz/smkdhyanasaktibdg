@@ -1,0 +1,150 @@
+a.menu-1{
+	background:url(images/profile.gif) no-repeat;
+	width:198px;
+	height:36px;
+	float:left;
+	}
+	
+a.menu-1:hover,.active-1 a,a.active-1{
+	background:url(images/profileb.gif) no-repeat;
+	width:198px;
+	height:36px;
+	float:left;
+	}
+
+a.menu-2{
+	background:url(images/program.gif) no-repeat;
+	width:198px;
+	height:32px;
+	float:left;
+	}
+	
+a.menu-2:hover,.active-2 a,a.active-2{
+	background:url(images/programb.gif) no-repeat;
+	width:198px;
+	height:32px;
+	float:left;
+	}
+
+a.menu-3{
+	background:url(images/ekstra.gif) no-repeat;
+	width:198px;
+	height:32px;
+	float:left;
+	}
+	
+a.menu-3:hover,.active-3 a,a.active-3{
+background:url(images/ekstrab.gif) no-repeat;
+	width:198px;
+	height:32px;
+	float:left;
+	}
+
+a.menu-4{
+	background:url(images/foto.gif) no-repeat;
+	width:198px;
+	height:34px;
+	float:left;
+	}
+	
+a.menu-4:hover,.active-4 a,a.active-4{
+background:url(images/fotob.gif) no-repeat;
+	width:198px;
+	height:34px;
+	float:left;
+	}
+a.menu-5{
+	background:url(images/buku.gif) no-repeat;
+	width:198px;
+	height:38px;
+	float:left;
+	}
+	
+a.menu-5:hover,.active-5 a,a.active-5{
+	background:url(images/bukub.gif) no-repeat;
+	width:198px;
+	height:38px;
+	float:left;
+	}
+
+
+a.home{
+	text-decoration: none;
+	font-family: arial;
+	font-size: 11px;
+	color:black;
+	font-weight: bold;
+}
+a.home:hover{
+	BORDER-BOTTOM: thin dashed;
+	color:white;
+}
+
+a.kalender{
+	text-decoration: none;
+	font-family: calibri;
+	font-size: 13px;
+	color:black;
+	font-weight: bold;
+}
+a.kalender:hover{
+	BORDER-BOTTOM: thin dashed;
+	color:#007236;
+	font-size: 14px;
+	font-weight: bold;
+}
+
+a.baca{
+	text-decoration: none;
+	font-family: arial;
+	font-size: 13px;
+	color:black;
+	font-style: italic;
+	font-weight: bold;
+}
+a.baca:hover{
+	BORDER-BOTTOM: thin dashed;
+	color:#7A0026;
+	font-weight: bold;
+}
+
+a.berita{
+	text-decoration: none;
+	font-family: calibri;
+	font-size: 13px;
+	color:white;
+	font-style: italic;
+	font-weight: bold;
+}
+a.berita:hover{
+	color:#E18D33;
+}
+
+a.icon:hover{
+	BORDER-BOTTOM: thin dashed;
+}
+
+td.isi{
+	font-family:arial;
+	font-size:13px;
+}
+td.berjalan{
+	font-family:verdana;
+	font-size:10px;
+	color:white;
+}
+td.judul{
+	font-family:calibri;
+	font-size:15px;
+	color:black;
+	font-style: italic;
+	font-weight: bold;
+
+}
+td.nama{
+	font-family:arial;
+	font-size:10px;
+	color:black;
+	font-weight: bold;
+
+}
